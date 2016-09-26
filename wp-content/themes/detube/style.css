@@ -1121,6 +1121,7 @@ input.search-submit {
 .user-nav {
 	float:left;
 	margin-left:10px;
+	visibility: hidden;
 }
 .user-nav ul {
 	list-style:none;
